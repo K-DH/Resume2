@@ -30,6 +30,8 @@
 **볼드체**
 ~~취소선~~
 
+<font color="red">GIT</font>
+
 |과목명|점수|
 |---|---|
 |<font color="#ff0000">GIT</font>|A+|
