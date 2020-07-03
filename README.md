@@ -30,9 +30,9 @@
 **볼드체**
 ~~취소선~~
 
-<font color="red">GIT</font>
+<span style="color:red">GIT</span>
 
 |과목명|점수|
 |---|---|
-|<font color="#ff0000">GIT</font>|A+|
+|<span style="color:red">GIT</span>|A+|
 
