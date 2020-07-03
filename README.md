@@ -37,3 +37,7 @@
 |<span style="color:red">GIT</span>|A+|
 
 ![git hub page](github.PNG)
+
+<img src=github.PNG width=100 height=100>
+
+
